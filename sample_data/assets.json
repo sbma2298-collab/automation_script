@@ -1,0 +1,17 @@
+[
+    {
+        "asset_number": "PUMP-100",
+        "status": "ACTIVE",
+        "description": "Main water pump"
+    },
+    {
+        "asset_number": "VALVE-200",
+        "status": "INACTIVE",
+        "description": "Isolation valve"
+    },
+    {
+        "asset_number": "MOTOR-300",
+        "status": "DECOMMISSIONED",
+        "description": "Retired electric motor"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "wonum": "1001",
+        "worktype": "PM",
+        "status": "COMP",
+        "description": "Preventive maintenance"
+    },
+    {
+        "wonum": "1002",
+        "worktype": "EM",
+        "status": "INPRG",
+        "description": "Emergency pump repair"
+    },
+    {
+        "wonum": "1003",
+        "worktype": "CM",
+        "status": "WAPPR",
+        "description": "Corrective valve repair"
+    }
+]

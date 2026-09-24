@@ -1,0 +1,2 @@
+
+print("Asset Status Script")
